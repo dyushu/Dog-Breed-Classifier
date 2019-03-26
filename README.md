@@ -1,6 +1,6 @@
 # Dog-Breed-Classifier
 
-Udacity DSND Project.
+Udacity DSND Project on creating a dog breed image classifier with keras.
 
 ## Overview
 
