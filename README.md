@@ -6,6 +6,8 @@ Udacity DSND Project on creating a dog breed image classifier with keras.
 
 This project is part of Udacity's Data Science Nanodegree. The aim of the project is to create a web application that is able to identify a breed of dog if given a photo or image as input. If the photo or image contains a human face, then the application will return the breed of dog that most resembles this person. The final trained model was then deployed into an application which could be fed photos (web application in Flask still under development).
 
+Summary of the results - final model for identifying dog breeds achieved an **85%** accuracy level on the testing dataset.
+
 ## Repository Contents
 
 The main file in the repository is the dog_app.ipynb, which is the Jupyter notebook containing the process used to create our algorithm and model used to predict the dog breed. A copy of this file is also in dog_app.html format.
