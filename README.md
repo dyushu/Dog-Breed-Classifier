@@ -12,7 +12,8 @@ Summary of the results - final model for identifying dog breeds achieved an **85
 
 The main file in the repository is the dog_app.ipynb, which is the Jupyter notebook containing the process used to create our algorithm and model used to predict the dog breed. A copy of this file is also in dog_app.html format.
 
-haarcascades folder holds the xml file for use with the OpenCv face detector class that is used in the notebook.
+The haarcascades folder holds the xml file for use with the OpenCv face detector class that is used in the notebook.
+The images folder contains the images used to test the predictions of the final model in the notebook.
 
 ## Dependencies
    - opencv-python==3.2.0.6
